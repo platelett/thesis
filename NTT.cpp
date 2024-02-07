@@ -1,5 +1,5 @@
 // 速度比不上 SIMD，优点是不需要 pragma
-// https://duck.ac/submission/21190
+// https://duck.ac/submission/21191
 
 #include <cstddef>
 #include <cstdint>
